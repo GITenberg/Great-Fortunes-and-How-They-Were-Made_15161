@@ -1,0 +1,42 @@
+_repo: Great-Fortunes-and-How-They-Were-Made_15161
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bensell, George F. (George Frederick)
+    alias: Bensell, George Frederick
+    birthdate: 1837
+    deathdate: 1879
+    gutenberg_agent_id: '26816'
+    url: http://www.gutenberg.org/2009/agents/26816
+  - agent_name: Bensell, Edmund Birckhead
+    alias: Bensell, E. B. (Edmund Birckhead)
+    birthdate: &id001 1842
+    gutenberg_agent_id: '28353'
+    url: http://www.gutenberg.org/2009/agents/28353
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCabe, James Dabney
+    aliases:
+    - McCabe, James D. (James Dabney)
+    - Martin, Edward Winslow
+    birthdate: *id001
+    deathdate: 1883
+    gutenberg_agent_id: '8798'
+    url: http://www.gutenberg.org/2009/agents/8798
+description: ''
+gutenberg_issued: '2005-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'United States -- Biography'
+title: Great Fortunes, and How They Were Made
+url: http://www.gutenberg.org/ebooks/15161

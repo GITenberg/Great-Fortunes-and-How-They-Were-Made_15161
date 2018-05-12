@@ -10,7 +10,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/26816
   - agent_name: Bensell, Edmund Birckhead
     alias: Bensell, E. B. (Edmund Birckhead)
-    birthdate: &id001 1842
+    birthdate: 1842
     gutenberg_agent_id: '28353'
     url: http://www.gutenberg.org/2009/agents/28353
 covers:
@@ -22,11 +22,13 @@ creator:
     aliases:
     - McCabe, James D. (James Dabney)
     - Martin, Edward Winslow
-    birthdate: *id001
+    birthdate: 1842
     deathdate: 1883
     gutenberg_agent_id: '8798'
     url: http://www.gutenberg.org/2009/agents/8798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15161#Great-Fortunes-and-How-They-Were-Made
 gutenberg_issued: '2005-02-24'
 gutenberg_type: Text
 identifiers:
